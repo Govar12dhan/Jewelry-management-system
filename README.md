@@ -1,3 +1,5 @@
+##PROCEDURE RUN THIS PROJECT
+
 First create new folder, then open new folder.
 
 Select the path and open terminal.
